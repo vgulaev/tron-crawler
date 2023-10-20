@@ -1,0 +1,23 @@
+{
+    pg: {
+        host: "********",
+        user: "********",
+        pass: "********",
+        db: "********",
+    },
+    nile: {
+        host: "********************",
+        currency_factor: 1000000,
+        usdt_contract_address: "41eca9bc828a3005b9a3b909f2cc5c2a54794de05f"
+    },
+    prod: {
+        host: "https://api.trongrid.io/",
+        currency_factor: 1000000,
+        usdt_contract_address: "41a614f803b6fd780986a42c78ec9c7f77e6ded13c"
+    },
+    current_net: "nile",
+    bot_token: "***************************",
+    http_server: {
+        port: 8081
+    }
+}

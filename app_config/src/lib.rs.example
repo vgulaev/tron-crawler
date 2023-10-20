@@ -1,4 +1,0 @@
-pub const PG_HOST: &str = "127.0.0.1";
-pub const PG_USER: &str = "user";
-pub const PG_PASS: &str = "pass";
-pub const PG_DATABASE: &str = "dbname";
